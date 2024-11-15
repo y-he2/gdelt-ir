@@ -1,2 +1,2 @@
-# gdelt-ir
-An information retrieval project with a goal of exploring unsupervised methods for trending news detection for a given date.
+# GDELT-IR
+An information retrieval project exploring unsupervised trending news detection using GDELT GSG data.
